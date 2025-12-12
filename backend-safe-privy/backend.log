@@ -1,0 +1,112 @@
+[dotenv@17.2.3] injecting env (9) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+🔑 Builder Wallet: 0x0Cc584d68007ad9A20F43A315141aE72186a1F5c
+(node:40681) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/shubz/test/polymarket-test/index.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/shubz/test/polymarket-test/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+🔥 Backend running on :9000
+
+
+🔄 Creating Privy wallet for Hashpack: 0.0.10164790
+
+🔄 Creating Privy wallet for Hashpack: 0.0.10164790
+✅ Privy Wallet Created:
+   Wallet ID: apkgglgt7n7ugxudya7vcedg
+   Address: 0x5d5949105Ca7C4C2D0F1EF7e2031b6443fc73401
+   Owner ID: null
+   Chain Type: ethereum
+
+🚀 Deploying Safe with Privy wallet as owner: 0x5d5949105Ca7C4C2D0F1EF7e2031b6443fc73401
+   Using builder wallet to sign deployment tx
+🟡 Sending Safe deployment transaction...
+
+🚀 Deploying Safe with Privy wallet as owner: 0x5d5949105Ca7C4C2D0F1EF7e2031b6443fc73401
+   Using builder wallet to sign deployment tx
+🟡 Sending Safe deployment transaction...
+❌ Deploy Error: Error: safe already deployed!
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/errors.js:5:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/client.js:13:18)
+✅ Privy Wallet Created:
+   Wallet ID: fprqiw1z7if1bpba0t0jb3vn
+   Address: 0xCd53AdbAB3D56aE18304a59d58820B1fE11805f6
+   Owner ID: null
+   Chain Type: ethereum
+❌ Deploy Error: Error: safe already deployed!
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/errors.js:5:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/client.js:13:18)
+
+🚀 Deploying Safe with Privy wallet as owner: 0xCd53AdbAB3D56aE18304a59d58820B1fE11805f6
+   Using builder wallet to sign deployment tx
+🟡 Sending Safe deployment transaction...
+❌ Deploy Error: Error: safe already deployed!
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/errors.js:5:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/client.js:13:18)
+
+🔄 Creating Privy wallet for Hashpack: 0.0.10164790
+
+🔄 Creating Privy wallet for Hashpack: 0.0.10164790
+✅ Privy Wallet Created:
+   Wallet ID: lja6s3ocu13w33hbm9fanjo1
+   Address: 0x9a4971d41deA4412682D5254ab02b826f1b8f893
+   Owner ID: null
+   Chain Type: ethereum
+
+🚀 Deploying Safe with Privy wallet as owner: 0x9a4971d41deA4412682D5254ab02b826f1b8f893
+   Using builder wallet to sign deployment tx
+🟡 Sending Safe deployment transaction...
+
+🚀 Deploying Safe with Privy wallet as owner: 0x9a4971d41deA4412682D5254ab02b826f1b8f893
+   Using builder wallet to sign deployment tx
+🟡 Sending Safe deployment transaction...
+✅ Privy Wallet Created:
+   Wallet ID: d13t4ibtzrwdz83w4qcehi72
+   Address: 0xdc4Ecda7FA4dDf869C51fe189883bFC87CCC6605
+   Owner ID: null
+   Chain Type: ethereum
+❌ Deploy Error: Error: safe already deployed!
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/errors.js:5:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/client.js:13:18)
+❌ Deploy Error: Error: safe already deployed!
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/errors.js:5:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (/home/shubz/test/polymarket-test/node_modules/.pnpm/@polymarket+builder-relayer-client@0.0.7/node_modules/@polymarket/builder-relayer-client/dist/client.js:13:18)
